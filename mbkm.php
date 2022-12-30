@@ -82,10 +82,7 @@ $kampus = query("SELECT * FROM program_mbkm");
             <h5><?= $row["nama_kampus"]; ?></h5>
             <div class="row">
               <div class="col-md-6 mb-5">
-                <a href="mbkms.html" class="btn btn-primary" id="dftr">Daftar</a>
-                <a href="change.php?id=<?= $row["id"]; ?>" class="btn btn-warning" id="dftr">Change</a>
-                <a href="add.php" class="btn btn-success" id="dftr">Add</a>
-                <a href="delete.php?id=<?= $row["id"]; ?>" class="btn btn-danger" id="dftr" onclick="return confirm('Yakin?');">Delete</a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeS3_6EwIn7dIpHsRVe3V4s46eHxO5NIRNMjfj6dl1r3hZ9eg/viewform" class="btn btn-primary" id="dftr">Daftar</a>
               </div>
             </div>
           </div>

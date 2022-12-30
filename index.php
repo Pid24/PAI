@@ -115,7 +115,7 @@ $berita = query("SELECT * FROM berita_informasi");
               <div class="card-body cd1">
                 <h3 class="text-dark">Mata Kuliah Yang Ditawarkan</h3>
                 <p class="text-dark">Daftar mata kuliah yang ditawarkan berbeda-beda pada tiap universitas.</p>
-                <a href="" class="btn btn-success text-white">Baca selengkapnya</a>
+                <a href="mbkms.html" class="btn btn-success text-white">Baca selengkapnya</a>
               </div>
             </div>
           </div>

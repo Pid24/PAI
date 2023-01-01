@@ -93,23 +93,6 @@ if( isset($_POST["submit"]) ) {
       </div>
     </section>
 
-    <section id="isi">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-md-6 kon">
-            <img src="img/kontak.png" alt="kontak" width="1100" height="300" />
-          </div>
-        </div>
-      </div>
-    </section>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-
     <section id="kontak">
       <div class="container">
         <div class="row text-center mb-3">

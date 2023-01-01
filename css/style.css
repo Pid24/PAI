@@ -11,7 +11,7 @@
 }
 
 .head2 {
-  margin-top: 10%;
+  margin-top: 19%;
 }
 
 .head3 {
@@ -19,9 +19,6 @@
 }
 
 .isi1 {
-  margin-left: 10%;
-  margin-top: 7%;
-  width: 500px;
   height: 309px;
   top: 661px;
   left: 931px;
@@ -69,6 +66,7 @@ ul {
 .row {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
 }
 
 .footer-col {
@@ -216,4 +214,18 @@ footer .footer-copyright a:hover {
 #agenda {
   margin-top: 5%;
   margin-bottom: 15%;
+}
+
+@media only screen and (max-width: 576px) {
+  .head2 {
+    margin-top: 40%;
+  }
+
+  #agenda {
+    margin-bottom: 50%;
+  }
+
+  #struktur {
+    margin-bottom: 50%;
+  }
 }

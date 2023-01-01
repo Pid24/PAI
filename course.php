@@ -79,7 +79,7 @@ $summer = query("SELECT * FROM summer_course");
         <div class="row">
         <?php foreach($summer as $row) : ?>
           <div class="col-md-6">
-            <img src="img/<?= $row["gambar"]; ?>" alt="course1" width="500" height="500" />
+            <img src="img/<?= $row["gambar"]; ?>" alt="course1" width="400" height="400" />
             <p class="isi2"><?= $row["deskripsi"]; ?></p>
             <p><?= $row["link"]; ?></p>
           </div>

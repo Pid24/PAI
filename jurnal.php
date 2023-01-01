@@ -83,7 +83,7 @@ $jurs = query("SELECT * FROM jurnal");
             <div class="jurnal1">
               <h6><i class="fa-solid fa-calendar-days"></i> <?= $row["tanggal"]; ?></h6>
               <h6><i class="fa-solid fa-user"></i> <?= $row["nama"]; ?></h6>
-              <img src="img/<?= $row["gambar"]; ?>" alt="cover1" width="500" height="500" />
+              <img src="img/<?= $row["gambar"]; ?>" alt="cover1" width="400" height="400" />
               <br>
               <br>
               <br>

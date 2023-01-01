@@ -72,7 +72,7 @@ $berita = query("SELECT * FROM berita_informasi");
             <div class="col-md-6">
               <div class="screen">
                 <h1 class="head1">PERMATA AGROINDUSTRI</h1>
-                <p class="isi1">
+                <p class="isi1 mx-auto col-sm">
                   Program pertukaran mahasiswa antar Program Studi Teknologi Industri Pertanian dari 36 Perguruan Tinggi baik Negeri maupun Swasta di seluruh Indonesia yang dikelola oleh Forum Komunikasi Program Studi Industri Pertanian
                   Indonesia (FKPS-IPI). Program Permata Agroindustri merupakan salah satu wujud dari kerjasama ini dalam rangka mengsukseskan Program Kampus Merdeka.
                 </p>
@@ -86,7 +86,7 @@ $berita = query("SELECT * FROM berita_informasi");
         <div class="row">
           <div class="row1">
             <div class="col">
-              <h2 class="head2 mb-5 ms-3" style="margin-top: 15%">MBKM Program Permata AGROINDUSTRI</h2>
+              <h2 class="head2 col-sm-8">MBKM Program Permata AGROINDUSTRI</h2>
             </div>
           </div>
           <div class="col-12 col-md-12 col-lg-4">

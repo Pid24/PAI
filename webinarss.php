@@ -14,7 +14,7 @@ $web2 = query("SELECT * FROM webinar2");
     <title>Permata Agro Industri</title>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg shadow-sm">
+  <nav class="navbar navbar-expand-lg shadow-sm navbar-dark">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">
           <div class="logo mx-auto">
@@ -31,14 +31,14 @@ $web2 = query("SELECT * FROM webinar2");
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle mx-2" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-weight: bold">Profil</a>
-              <ul class="dropdown-menu" style="background-color: #4ecdc4">
+              <ul class="dropdown-menu" style="background-color: #5D8AA6">
                 <li><a class="dropdown-item" href="struktur.html">Struktur Organisasi</a></li>
                 <li><a class="dropdown-item" href="dataanggotafkps.php">Data PS Anggota FKPS IPI</a></li>
               </ul>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle mx-2" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-weight: bold">Pendidikan dan Pengajaran</a>
-              <ul class="dropdown-menu" style="background-color: #4ecdc4">
+              <ul class="dropdown-menu" style="background-color: #5D8AA6">
                 <li><a class="dropdown-item" href="mbkm.php">MBKM Program Permata Agro Industri</a></li>
                 <li><a class="dropdown-item" href="course.php">Summer Course</a></li>
                 <li><a class="dropdown-item" href="pascasarjana.php">Pascasarjana</a></li>
@@ -50,7 +50,7 @@ $web2 = query("SELECT * FROM webinar2");
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle mx-2" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-weight: bold">Penelitian dan Pengabdian Masyarakat</a>
-              <ul class="dropdown-menu" style="background-color: #4ecdc4">
+              <ul class="dropdown-menu" style="background-color: #5D8AA6">
                 <li><a class="dropdown-item" href="join.html">Join Research</a></li>
                 <li><a class="dropdown-item" href="kolaborasi.html">Kolaborasi Pengabdian Kepada Masyarakat</a></li>
                 <li><a class="dropdown-item" href="webinar.php">Webinar Sharing</a></li>

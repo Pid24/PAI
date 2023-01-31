@@ -107,7 +107,7 @@ $kampus = query("SELECT * FROM program_mbkm");
                 <p>(0341) 580106</p>
                 <p>(0341) 568917</p>
               </li>
-              <li><p>ftp_ub@ub.ac.id</p></li>
+              <li><p>fkps.ipi@gmail.com</p></li>
             </ul>
           </div>
 
@@ -124,11 +124,7 @@ $kampus = query("SELECT * FROM program_mbkm");
           <div class="footer-col">
             <h4 class="mt-5">Akun Official Kami</h4>
             <div class="social-links">
-              <a href=""><i class="fa-brands fa-facebook"></i></a>
-              <a href=""><i class="fa-brands fa-twitter"></i></a>
-              <a href=""><i class="fa-brands fa-instagram"></i></a>
-              <a href=""><i class="fa-brands fa-youtube"></i></a>
-              <a href=""><i class="fa-solid fa-envelope"></i></a>
+            <a href="https://www.instagram.com/fkpsipi/"><i class="fa-brands fa-instagram"></i></a>
             </div>
           </div>
         </div>

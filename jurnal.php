@@ -68,7 +68,7 @@ $jurs = query("SELECT * FROM jurnal");
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6">
-            <h1 class="head4 mb-5">PUBLIKASI JURNAL</h1>
+            <h1 class="h1-jurnal mb-5">PUBLIKASI JURNAL</h1>
           </div>
         </div>
       </div>

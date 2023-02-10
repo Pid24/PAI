@@ -67,7 +67,7 @@ $summer = query("SELECT * FROM summer_course");
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6">
-            <h1 class="mb-5 ms-5">SUMMER COURSE</h1>
+            <h1 class="h1-course mb-5 ms-5">SUMMER COURSE</h1>
           </div>
         </div>
       </div>

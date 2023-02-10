@@ -68,7 +68,7 @@ $datas = query("SELECT * FROM data_ps_anggota");
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6">
-            <h1 class="mb-5">DATA PS ANGGOTA FKPS IPI</h1>
+            <h1 class="h1-anggota mb-5">DATA PS ANGGOTA FKPS IPI</h1>
           </div>
         </div>
       </div>

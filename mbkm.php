@@ -68,7 +68,7 @@ $kampus = query("SELECT * FROM program_mbkm");
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6">
-            <h1 class="mb-5">MBKM PROGRAM PERMATA AGROINDUSTRI</h1>
+            <h1 class="h1-mbkm mb-5">MBKM PROGRAM PERMATA AGROINDUSTRI</h1>
           </div>
         </div>
       </div>

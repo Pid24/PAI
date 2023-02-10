@@ -70,7 +70,7 @@ $sop = query("SELECT * FROM sop_pasca");
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6">
-            <h1 class="head3 mb-5 ms-5">Pasca Sarjana</h1>
+            <h1 class="h1-pascasarjana mb-5 ms-5">Pasca Sarjana</h1>
           </div>
         </div>
       </div>

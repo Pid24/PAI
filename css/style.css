@@ -6,16 +6,17 @@
   margin-top: 13%;
 }
 
+#home {
+  background-image: url(img/logooo.png);
+  max-height: max-content;
+}
+
 .head1 {
   margin-left: 10%;
 }
 
 .head2 {
   margin-top: 19%;
-}
-
-.head3 {
-  margin-left: 30%;
 }
 
 .isi1 {
@@ -220,6 +221,62 @@ footer .footer-copyright a:hover {
 @media only screen and (max-width: 576px) {
   .head2 {
     margin-top: 40%;
+  }
+
+  .h1-so {
+    margin-top: 12%;
+  }
+
+  .h1-anggota {
+    margin-top: 12%;
+  }
+
+  .h1-mbkm {
+    margin-top: 12%;
+  }
+
+  .h1-mbkms {
+    margin-top: 12%;
+  }
+
+  .h1-course {
+    margin-top: 12%;
+  }
+
+  .h1-pascasarjana {
+    margin-top: 12%;
+  }
+
+  .h1-jurnal {
+    margin-top: 12%;
+  }
+
+  .h1-magangdosen {
+    margin-top: 12%;
+  }
+
+  .h1-akreditasi {
+    margin-top: 12%;
+  }
+
+  .h1-pembimbingan {
+    margin-top: 12%;
+  }
+
+  .h1-join {
+    margin-top: 12%;
+  }
+
+  .h1-kolaborasi {
+    margin-top: 12%;
+  }
+
+  .h1-webinar {
+    margin-top: 12%;
+  }
+
+  .h1-kontak {
+    margin-top: 12%;
   }
 
   #agenda {

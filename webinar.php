@@ -68,7 +68,7 @@ $web = query("SELECT * FROM webinar");
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-6">
-            <h1 class="mb-5">WEBINAR SHARING</h1>
+            <h1 class="h1-webinar mb-5">WEBINAR SHARING</h1>
           </div>
         </div>
       </div>
